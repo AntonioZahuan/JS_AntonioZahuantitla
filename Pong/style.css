@@ -1,0 +1,48 @@
+#canvas{
+  margin: auto;
+  width: 1000px;
+  height: 500px;
+  background-color:#202020;
+  border: 0.5em inset orange;
+  display: flex;
+  padding: none;
+}
+
+h1{
+  text-align: center;
+  color: white;
+}
+
+.tecla
+{
+  width: 500px;
+  height: 500px;
+  border-radius: 1em;
+  background-color: aqua;
+}
+
+body
+{
+  background-image: url(image1.jpeg);
+  width: 1080;
+  height: 2040;
+  background-repeat: none;
+  background-position: center;
+}
+table{
+  margin:center;
+}
+th
+{
+  background-image: linear-gradient(30deg, orange, darkorange, yellow);
+  border: 0.5em outset violet;
+  border-radius: 1em;
+  width: 250px;
+  color: blueviolet;
+}
+
+img
+{ 
+  width: 50%;
+  
+}
